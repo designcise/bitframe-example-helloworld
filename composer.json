@@ -1,0 +1,6 @@
+{
+    "require": {
+		"designcise/bitframe": "^1.0.0",
+		"designcise/bitframe-diactoros": "^1.0.0"
+	}
+}
