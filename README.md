@@ -23,6 +23,10 @@ Make sure you have [Composer](https://getcomposer.org/download/) installed.
 
 Once you've installed the required dependency files, point your browser to the `hello_world` project's url (for example: http://localhost/hello_world/public_html/) to see a page that outputs `Hello World!`. Remember though, since we're not using a Router, all pages would display the same output by default.
 
+### License
+
+Please see [License File](LICENSE.md) for licensing information.
+
 ### Useful Links
 
 - [BitFrame PHP Microframework Official](https://www.bitframephp.com)
